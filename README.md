@@ -6,11 +6,20 @@ The name of the story is "Ali Baba" and the story will start when the player rec
 
 
 What was used in this project:
-Time library 
+
+
+Time library
+
 RegEx libray 
+
 While 
-Return  
+
+Return 
+
 IF
+
 Def 
+
 for 
+
 try 
